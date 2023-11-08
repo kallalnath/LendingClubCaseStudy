@@ -12,7 +12,7 @@
 
 ## General Information
 - A lending club looking out to cut it's financial losses by avoiding borrowers who are most likely to default, and increase business by lending borrowers who are most likely to repay.
-- Aim is to find out patterns of defaulting customers, so that the risk of financial loss can be reduced in the future. Also, identify patterns of borrowers who are most likely to pay 
+- Aim is to find out patterns of defaulting customers, so that the risk of financial loss can be reduced in the future. Also, identify patterns of borrowers who are most likely to pay. 
 - A data set containing information about past loan applicants and whether they ‘defaulted’ or not . 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
